@@ -1,6 +1,6 @@
 # Agência XPTO
 
-Um site institucional fictício de uma agência digital, desenvolvido como exercício de front-end. A página exibe projetos em destaque em um painel interativo.
+Um site institucional fictício de uma agência digital, desenvolvido como exercício de front-end. A página exibe projetos em destaque em um painel interativo..
 
 ## 🚀 Tecnologias Utilizadas
 
